@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 西谿易說
-#+DATE: 2015-09-23 09:34:37
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 21:55:26.641274
+#+PROPERTY: ID KR1a0049
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1a0049_WYG_000-1a>¶
 欽定四庫全書　　　　經部一¶
 　西谿易説　　　　　　易類¶
@@ -31,6 +33,7 @@
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 <pb:KR1a0049_WYG_000-2b>¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 原序
 <pb:KR1a0049_WYG_000-3a>¶
 西谿易説原序¶
 六經中惟大易一書可見聖人之心葢自秦人焚滅先¶
@@ -409,4 +412,3 @@
 　¶
 　¶
 　西谿易説原序¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 西谿易說
-#+DATE: 2015-09-23 09:34:37
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:55:26.682321
+#+PROPERTY: ID KR1a0049
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1a0049_WYG_002-1a>¶
 欽定四庫全書¶
 　西谿易説卷二¶
@@ -398,4 +400,3 @@
 　¶
 　¶
 　西谿易説卷二¶
-
